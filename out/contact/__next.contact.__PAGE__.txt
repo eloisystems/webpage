@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"bg-[#f4f6f1] px-5 py-16 sm:px-8 sm:py-24","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","p",null,{"className":"section-kicker mb-4","children":"Contact Eloi"}],["$","h1",null,{"className":"display-type max-w-2xl text-4xl leading-tight text-[#17231d] sm:text-5xl","children":"Networks, genomics, or collaboration."}],["$","p",null,{"className":"mt-5 max-w-xl text-base leading-7 text-[#647169]","children":"Reach our team directly by email."}],["$","a",null,{"href":"mailto:info@eloisystems.com","className":"mt-7 inline-flex items-center gap-3 bg-[#164b3b] px-5 py-3 text-sm font-semibold text-white transition hover:bg-[#103a2e]","children":["info@eloisystems.com ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"D0pN3h-nqqesYdPyJ659d"}
+4:null

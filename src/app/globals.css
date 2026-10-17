@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f4f6f1;
+  --ink: #17231d;
+  --forest: #164b3b;
+  --leaf: #cbe36b;
+  --coral: #e96f50;
+  --muted: #647169;
+}
+
+@theme inline {
+  --color-background: var(--paper);
+  --color-foreground: var(--ink);
+  --font-sans: var(--font-dm-sans);
+  --font-serif: var(--font-dm-serif);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-dm-sans), sans-serif;
+}
+
+::selection {
+  background: var(--leaf);
+  color: var(--ink);
+}
+
+.display-type {
+  font-family: var(--font-dm-serif), Georgia, serif;
+  font-weight: 400;
+}
+
+.section-kicker {
+  color: var(--forest);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.research-hero {
+  background-position: center;
+  background-size: cover;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal-in {
+    animation: reveal-in 700ms ease-out both;
+  }
+
+  @keyframes reveal-in {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
