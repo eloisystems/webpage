@@ -12,7 +12,7 @@ export default function Footer() {
               <img src="/logo.png" alt="" className="h-10 w-10 object-contain" />
               <span className="text-lg font-bold">Eloi <span className="font-normal text-white/65">Systems</span></span>
             </Link>
-            <p className="max-w-sm text-sm leading-6 text-white/65">Networking solutions and health research technology, built to strengthen connections and improve lives across Africa.</p>
+            <p className="max-w-sm text-sm leading-6 text-white/65">We turn complex genomic data into reliable, useful answers to biological questions, grounded in evidence.</p>
           </div>
           <div className="sm:justify-self-end">
             <p className="mb-4 text-xs font-bold uppercase tracking-[0.14em] text-[#d5e88c]">Explore</p>
@@ -28,7 +28,7 @@ export default function Footer() {
 
         <div className="flex flex-col gap-2 pt-6 text-xs text-white/50 sm:flex-row sm:justify-between">
           <p>&copy; {currentYear} Eloi Systems. All rights reserved.</p>
-          <p>Accra, Ghana · Connected for impact</p>
+          <p>Connected for impact</p>
         </div>
       </div>
     </footer>

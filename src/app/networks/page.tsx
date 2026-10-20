@@ -1,4 +1,4 @@
-export default function GhanaFocus() {
+export default function Networks() {
   return (
     <section id="networks" className="bg-[#164b3b] px-5 py-14 text-white sm:px-8 sm:py-20">
       <div className="mx-auto mb-10 max-w-7xl">

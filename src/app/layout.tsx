@@ -14,8 +14,8 @@ const dmSerif = DM_Serif_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Eloi Systems | Networking and Genomics Technology",
-  description: "Ghana-based networking solutions and genomics technology for African-led health research, connecting essential systems and advancing discovery.",
+  title: "Eloi Systems | Evidence-led Genomic Analysis",
+  description: "Eloi Systems works with large, complex genomic datasets to produce reliable, useful answers to biological questions, grounded in evidence.",
 };
 
 export default function RootLayout({

@@ -1,6 +1,6 @@
 import Header from '@/components/header';
 import Hero from '@/components/hero';
-import GhanaFocus from '@/app/Ghanafocus/page';
+import Networks from '@/app/networks/page';
 import Features from '@/app/features/page';
 import Careers from '@/app/careers/page';
 import Footer from '@/components/footer';
@@ -12,8 +12,8 @@ return (
 
     <main>
       <Hero />
-      <GhanaFocus />
       <Features />
+      <Networks />
       <Careers />
     </main>
 

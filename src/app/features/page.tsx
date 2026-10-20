@@ -3,7 +3,7 @@ export default function Features() {
     {
       number: '01',
       title: 'Genomic data infrastructure',
-      description: 'Build the data foundations for secure, well-governed genomic research led by African institutions.',
+      description: 'Build the data foundations for secure, well-governed genomic research led by research institutions.',
     },
     {
       number: '02',
@@ -17,13 +17,13 @@ export default function Features() {
     },
     {
       number: '04',
-      title: 'African population genomics',
-      description: 'Support more representative genomic research and better understanding of the genetic diversity of African populations.',
+      title: 'Population genomics',
+      description: 'Support representative genomic research and improve understanding of human genetic diversity.',
     },
     {
       number: '05',
       title: 'Precision health research',
-      description: 'Explore how genomic evidence can contribute to care and health insights relevant to African communities.',
+      description: 'Explore how genomic evidence can inform care and improve health outcomes.',
     },
     {
       number: '06',
@@ -37,10 +37,10 @@ export default function Features() {
       <div className="mx-auto max-w-7xl">
         <div className="mb-12 flex flex-col justify-between gap-5 md:flex-row md:items-end">
           <div>
-            <p className="section-kicker mb-4">Genomics technology / Health solutions</p>
-            <h2 className="display-type max-w-2xl text-4xl leading-tight text-[#17231d] sm:text-5xl">Genomics tools for health questions that matter in Africa.</h2>
+            <p className="section-kicker mb-4">Genomics / Bioinformatics / Data science</p>
+            <h2 className="display-type max-w-2xl text-4xl leading-tight text-[#17231d] sm:text-5xl">Make large genomic datasets answer biological questions.</h2>
           </div>
-          <p className="max-w-md text-base leading-7 text-[#647169]">We focus on the data infrastructure, computational methods and African-led partnerships that make genomic research more useful and representative.</p>
+          <p className="max-w-md text-base leading-7 text-[#647169]">We combine genomic data infrastructure, rigorous computational analysis and responsible stewardship to make findings clear, reproducible and useful.</p>
         </div>
 
         <div className="grid border-l border-t border-[#dce2d9] sm:grid-cols-2 lg:grid-cols-3">
